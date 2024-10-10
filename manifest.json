@@ -1,0 +1,30 @@
+{
+  "appVersion" : "1.8.0",
+  "authors" : [
+    {
+      "name" : "Bruno Borghi"
+    }
+  ],
+  "dependencies" : [
+
+  ],
+  "description" : "Creates a new note with timestamp and title\n  - The user is prompted for a title\n  - The filename is made from the current timestamp and the sanitized title\n  - A front matter is inserted at the top of the created note\n\nNB:\n  - The timestamp is precise to the minute\n  - the front matter structure is hardcoded\n",
+  "identifier" : "com.akeirou.newnotewithtimestamp",
+  "input" : {
+    "notes" : [
+
+    ],
+    "text" : [
+
+    ]
+  },
+  "output" : {
+    "changeFile" : {
+      "programmaticFilename" : true
+    },
+    "onCompletion" : "showFile"
+  },
+  "releaseDate" : "2024-10-10",
+  "title" : "New note with timestamp",
+  "version" : "1.0.0"
+}

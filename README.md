@@ -15,7 +15,8 @@ NB:
 ## Plug-in installation
 - download the zip file [com.akeirou.newnotewithtimestamp.thearchiveplugin.zip](https://github.com/BrBorghi/new_note_with_timestamp/releases/download/V1.0.0/com.akeirou.newnotewithtimestamp.thearchiveplugin.zip)
 - unzip it in a temporary folder
-- copy the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` to the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
+- double-click on the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` to install it
+- alternatively to install it, you can copy the bundle `com.akeirou.newnotewithtimestamp.thearchiveplugin` in the folder `~/Library/Application\ Support/TheArchive/Plugins/Installed`
 - enable the plug-in in "The Archive" application:
   - in the toolbar menu, select _Plug-Ins > Manage Plug-Ins..._
   - select the plug-in _New Note with Timestamp_ and click the _Enable_ button
